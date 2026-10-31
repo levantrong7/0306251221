@@ -91,7 +91,6 @@ quanly_sinhvien/
 └── notifications.php # Thông báo
 └── profile.php       # Thông tin cá nhân
 └── README.md         # Thông tin về dự án
-└── welcome.php       # Trang chào / điều hướng đăng nhập
 ```
 
 ## 🔐 Tính năng bảo mật
